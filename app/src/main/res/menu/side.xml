@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/world"
+        android:title="World Stats" />
+
+    <item android:id="@+id/India"
+        android:title="India Stats" />
+
+    <item android:id="@+id/Donate"
+        android:title="@string/donate"/>
+
+    <item android:id="@+id/faq"
+        android:title="FAQs"/>
+
+    <item android:title="Ministry of AYUSH">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:id="@+id/immunity"
+                android:title="Tips to Boost Immunity"/>
+
+        </menu>
+    </item>
+
+</menu>

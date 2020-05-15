@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">COVID-19 Help App</string>
+    <string name="navigation_drawer_open">Open Navigation Bar</string>
+    <string name="navigation_drawer_close">Close Navigation Bar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="donate">Donate</string>
+</resources>
